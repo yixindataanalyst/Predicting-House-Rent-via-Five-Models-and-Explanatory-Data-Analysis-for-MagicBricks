@@ -1,4 +1,4 @@
-**Background:** <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
+**Background:**
 
 As the cost of living in urban areas continues to rise, many people struggle to find affordable housing. This was the problem that I wanted to tackle with my project. I worked with a company called MagicBricks, which provides rental listings and other real estate services in India. My goal was to build predictive models that could help MagicBricks price their rental properties more accurately, making it easier for people to find affordable housing.
 
