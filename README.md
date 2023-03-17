@@ -1,3 +1,4 @@
+##Back Ground##
 As the cost of living in urban areas continues to rise, many people struggle to find affordable housing. This was the problem that I wanted to tackle with my project. I worked with a company called MagicBricks, which provides rental listings and other real estate services in India. My goal was to build predictive models that could help MagicBricks price their rental properties more accurately, making it easier for people to find affordable housing.
 
 To do this, I collected a large dataset of rental properties from various sources, including MagicBricks' own listings. I cleaned the data and selected the most important features, such as location, number of bedrooms, and amenities. I then used six different models to predict rent prices: logistic regression, logistic regression regularized via Lasso, random forest, support vector machines (SVM), multilayer perceptron (MLP), and principal component analysis (PCA).
