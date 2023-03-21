@@ -15,3 +15,5 @@ To show the potential impact of my project, I provided MagicBricks with a cost-b
 # Conclusion:
 
 Overall, my project demonstrated that predictive models can be a powerful tool for improving the rental market. By identifying the most important drivers of rent and building accurate models, we can help people find more affordable housing and make the rental market more efficient. While there are still limitations to the models, such as the quality of the data and the complexity of the rental market, my project provides a solid foundation for further research and development in this area.
+
+[An Internal Link](https://medium.com/@yixinwang42/predicting-house-rent-via-five-models-and-explanatory-data-analysis-for-magicbricks-7f6a4a8e87c8)
