@@ -1,6 +1,6 @@
 # Background:
 
-As the cost of living in urban areas continues to rise, many people struggle to find affordable housing. This was the problem that I wanted to tackle with my project. I worked with a company called MagicBricks, which provides rental listings and other real estate services in India. My goal was to build predictive models that could help MagicBricks price their rental properties more accurately, making it easier for people to find affordable housing.
+As the cost of living in urban areas continues to rise, many people struggle to find affordable housing. This was the problem that I wanted to tackle with my project. I worked with a company called MagicBricks, which provides rental listings and other real estate services in India. My goal was to build predictive models that could help MagicBricks price their rental properties more accurately and maximize its overall profit.
 
 # My practice:
 
