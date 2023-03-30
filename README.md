@@ -4,9 +4,9 @@ As the cost of living in urban areas continues to rise, many people struggle to 
 
 # My practice:
 
-To do this, I collected a large dataset of rental properties from various sources, including MagicBricks' own listings. I cleaned the data and selected the most important features, such as location, number of bedrooms, and amenities. I then used six different models to predict rent prices: logistic regression, logistic regression regularized via Lasso, random forest, support vector machines (SVM), multilayer perceptron (MLP), and principal component analysis (PCA).
+To do this, I collected a large dataset of rental properties from various sources, including MagicBricks' own listings. I cleaned the data and selected the most important features, such as location, number of bedrooms, and amenities. I then used six different models to predict rent prices: logistic regression, logistic regression regularized via Lasso, random forest, support vector machines (SVM), multilayer perceptron (MLP), and XGboost.
 
-Each model had its own strengths and weaknesses. For example, logistic regression and SVM are linear models that work well when there is a clear linear relationship between the features and the target variable (in this case, rent). Random forest and MLP, on the other hand, are nonlinear models that can capture more complex relationships between the features and rent. PCA was used to reduce the dimensionality of the data and improve the performance of the models.
+Each model had its own strengths and weaknesses. For example, logistic regression and SVM are linear models that work well when there is a clear linear relationship between the features and the target variable (in this case, rent). Random forest and XGboost other hand, are nonlinear models that can capture more complex relationships between the features and rent. 
 
 After testing each model on a validation dataset, I found that they all performed well, with out-of-sample (OOS) accuracy ranging from 90% to 93%. The most important drivers of rent that I identified were location, number of bedrooms, amenities, and proximity to public transportation, among others. I used these drivers to improve the performance of the models and make more accurate predictions.
 
